@@ -7,7 +7,3 @@ scikit-learn==0.24.2
 requests==2.26.0
 docx2pdf
 io
-os
-win32com.client
-tempfile
-re
